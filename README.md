@@ -5,7 +5,7 @@
 
 - Estudiar a tiempo parcial en la universida, curso 7th semestre.
 - Diseño de circuitos micrielectronicos.
-- Diseño de PPE con el lenguaje verilog.
+- Sistemas digitale.
 ____
 
 #### Tengo conocimientos en:
