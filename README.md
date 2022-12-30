@@ -3,7 +3,7 @@
 
 #### Actualmente estoy interesando en:
 
-- Estudiar a tiempo parcial en la universidad, curso 7th semestre.
+- Estudiar a tiempo parcial todo lo relacionado a mi carrera, curso 7th semestre.
 - Diseño de circuitos microelectronicos.
 - Sistemas digitales.
 ____
