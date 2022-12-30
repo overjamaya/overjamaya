@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hola mi nombre es Over Amaya 👋
+#### Estudiante de ingenieria electronica 💻⚡
 
-<!--
-**overjamaya/overjamaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Actualmente estoy interesando en:
 
-Here are some ideas to get you started:
+- Estudiar a tiempo parcial en la universida, curso 7th semestre.
+- Diseño de circuitos micrielectronicos.
+- Diseño de PPE con el lenguaje verilog.
+____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tengo conocimientos en:
+
+Sistemas digitales:
+
+verilog, vivado
+____
+
+Circutos Integrados:
+
+Cadence virtuoso, 180 nm
+
+____
+
+Programacion y otros:
+
+C++, java, MATLAB, GNURADIO, Linux
+
