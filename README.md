@@ -15,9 +15,7 @@ Sistemas digitales:
 verilog, vivado
 ____
 
-Circutos Integrados:
-
-Cadence virtuoso, 180 nm
+Circutos Integrados
 
 ____
 
