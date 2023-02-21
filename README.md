@@ -19,7 +19,8 @@ ____
 
 #### Redes sociales:
 
-- [Facebook](https://www.facebook.com/overjamaya) 
-- [Youtube](https://www.youtube.com/@overjamaya)
-- [GitHub](https://www.github.com/overjamaya)
 - [Linkedin](https://www.linkedin.com/in/overjamaya)
+- [Youtube](https://www.youtube.com/@overjamaya)
+- [Facebook](https://www.facebook.com/overjamaya) 
+- [GitHub](https://www.github.com/overjamaya)
+
