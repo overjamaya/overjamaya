@@ -1,5 +1,5 @@
 ### Hola, ¿Qué tal?, mi nombre es Over Amaya!! 👋
-#### Actualmente soy estudiante de ingeniería electrónica y llevo a cabo algunos proyectos personales que puedes ver en github y tambien en mis redes sociales, además soy parte del grupo de investigación ONCHIP en la universidad industrial de Santander en Colombia con calificación por parte de MINCIENCIAS de B, el cual se enfoca en mayor parte a la arquitectura de circuitos analógicos y señal mixta e interfaces de alta velocidad. 💻⚡
+#### Actualmente soy estudiante de ingeniería electrónica de octavo semestre y llevo a cabo algunos proyectos personales que puedes ver en GitHub y también en mis redes sociales, además soy parte del grupo de investigación ONCHIP en la universidad industrial de Santander en Colombia con calificación por parte de MINCIENCIAS de B, el cual se enfoca en mayor parte a la arquitectura de circuitos analógicos y señal mixta e interfaces de alta velocidad. 💻⚡
 
 #### Actualmente estoy interesando en:
 
