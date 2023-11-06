@@ -1,18 +1,13 @@
 ### Hola, ¿Qué tal?, mi nombre es Over Amaya!! 👋
-#### Actualmente soy estudiante de ingeniería electrónica de octavo semestre y llevo a cabo algunos proyectos personales que puedes ver en GitHub y también en mis redes sociales. 💻⚡
+#### Actualmente soy estudiante de ingeniería electrónica de ultimo año y llevo a cabo algunos proyectos personales que puedes ver en GitHub y también en mis redes sociales. 💻⚡
 
-#### Actualmente estoy interesando en:
-
-- Estudiar a tiempo parcial todo lo relacionado a mi carrera, curso 8th semestre.
-- Diseño de circuitos analogicos y señal mixta.
-- Sistemas digitales.
-____
+Estudiante senior en ingenieria electrónica, miembro activo del grupo de investigación OnChip, con enfoque en diseño Analog/Mixed-Signal (AMS) y VLSI, experiencia con Cadence Virtuoso Design Flow y Open Source EDA Tools con 180nm y 130nm CMOS nodos tecnológicos respectivamente, experiencia en flujo digital con Xilinx Vivado con arquitectura RISC-V, conocimientos en MATLAB, C++.
 
 #### Tengo conocimientos en:
 
-- ##### Sistemas digitales: Descripción en leguaje Verilog, Entorno de desarrollo Vivado, diseño de procesadores específicos y generales, implementación en FPGA.
-
-- ##### Circuitos Integrados: Entorno de desarrollo Virtuoso, diseño de circuitos integrados en 180n.
+- ##### flujo digital con Xilinx Vivado con arquitectura RISC-V.
+  
+- ##### Cadence Virtuoso Design Flow y Open Source EDA Tools con 180nm y 130nm CMOS nodos tecnológicos respectivamente
 
 - ##### Programación y otros: C++, java, MATLAB, GNURADIO, Linux
 
